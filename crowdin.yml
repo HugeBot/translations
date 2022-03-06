@@ -1,5 +1,5 @@
 files:
-  - source: commands_en.properties
-    translation: commands_%two_letters_code%.properties
-  - source: messages_en.properties
-    translation: messages_%two_letters_code%.properties
+  - source: /commands_en.properties
+    translation: /commands_%two_letters_code%.properties
+  - source: /messages_en.properties
+    translation: /messages_%two_letters_code%.properties
