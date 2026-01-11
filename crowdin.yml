@@ -1,5 +1,9 @@
 files:
   - source: /commands_en.properties
     translation: /commands_%two_letters_code%.properties
+    escape_quotes: 0
+    escape_special_chars: 0
   - source: /messages_en.properties
     translation: /messages_%two_letters_code%.properties
+    escape_quotes: 0
+    escape_special_chars: 0
